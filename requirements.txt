@@ -1,0 +1,6 @@
+FreeSimpleGUI
+numpy
+pystray
+Pillow
+pynput
+pyinstaller
