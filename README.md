@@ -178,6 +178,8 @@ signtool sign /f certificado.pfx /p senha FiltroVisaoConfortavel.exe
 
 **Lucas Andrade Desenvolvimento de Softwares**
 
++55 41 99257 3377
+
 Para suporte ou customizações, entre em contato.
 
 ---
